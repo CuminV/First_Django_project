@@ -4,12 +4,11 @@ env/
 __pycache__/
 *.pyo
 *.py[cod]
-db.sqlite3
+*.sqlite3
 /media/
 staticfiles/
 .env
 .idea/
 .vscode/
 *.log
-.DS_Store
 Thumbs.db
